@@ -102,6 +102,9 @@
    .section1, .section2, .section3, .p1, .p2, .p3, .p4, .p5, .p6, .p7, .sp1, .sp2, .division, .button1 {
        display: none;
    }
+}
+
+
 
 @media screen and (max-width: 499px) {
    .heading1, .heading2, .heading3, .paragraph1, .paragraph2, .paragraph3, .paragraph4, .span1, .span2, .button, .section11, .section12, .head {
@@ -179,7 +182,7 @@
    font-weight: bold;
    padding-left: 35px;
    color: floralwhite;
-   padding-top: 10px;
+   padding-top: 5px;
    font-family: "karla";
 }
 .span2 {
@@ -191,10 +194,10 @@
 .button {
    color: white;
    padding-right: 120px;
-   padding-top: 10px;
+   padding-top: 3px;
    padding-left: 120px;
    background-color: greenyellow;
-   padding-bottom: 10px;
+   padding-bottom: 3px;
    font-size: 20px;
    border-radius: 10px;
    border-color: greenyellow;
